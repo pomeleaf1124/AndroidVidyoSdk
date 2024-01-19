@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+group 'com.github.pomeleaf1124'
+version 'master'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'com.github.pomeleaf1124:AndroidVidyoSdk:master'
+}
